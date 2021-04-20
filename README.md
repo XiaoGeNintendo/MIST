@@ -6,3 +6,5 @@
 MIST is an education game about poverty alleviation. In the game you play the role as a young man who are determined to save the folks from poverty.
 
 You can download the playground at the Release tab. It is designed for Swift Playground on Mac Big Sur.
+
+Unfortunately, the [Main code](https://github.com/XiaoGeNintendo/MIST/blob/main/PlaygroundBook/Modules/Mist.playgroundmodule/Sources/File.swift) is very very unclear as it is merged into one file. I apologize.
