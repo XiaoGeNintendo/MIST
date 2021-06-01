@@ -1,5 +1,5 @@
 # MIST
- WWDC 2021 Submission MayISolveThis
+ **[Rejected]** WWDC 2021 Submission MayISolveThis
 
 ![Showcase](https://blog.hellholestudios.top/wp-content/uploads/2021/04/wp_editor_md_5c57d6b3df860f361558596992cd8259.jpg)
 
